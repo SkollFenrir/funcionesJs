@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+#div1 {
+    background-color:green;
+}
+
+#div2 {
+    background-color: blue;
+}
+
+#div3 {
+    background-color: yellowgreen;
+}
+
+#div4 {
+    background-color: red;
+}
+
